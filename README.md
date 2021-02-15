@@ -18,7 +18,7 @@
 I'm Abhishek Prasad
 
 - A CSE Undergraduate Student
-- 🌱 I’m currently learning - React
+- 🌱 I’m currently learning - Reactjs
 - 👯 I’m a Web Development enthusiast
 - ⚡ Fun fact: I love anime
 <br />
