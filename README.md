@@ -10,9 +10,7 @@ I'm <strong>Abhishek Prasad</strong>
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="35" />  I'm looking to collaborate on ....
 - <img src="https://media.giphy.com/media/rBVg4NWlIjdGS07TjZ/giphy.gif" width="35"/> Code-Eat-Anime-Sleep : Repeat
 
-<br />
-<hr>
-<br />
+
 **Languages and Tools:**  
 
 <code><img height="25" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
@@ -26,16 +24,13 @@ I'm <strong>Abhishek Prasad</strong>
 <code><img height="25" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
 <code><img height="25" src="https://img.icons8.com/officexs/40/000000/java-eclipse.png"></code>
 
-<br />
-<hr>
-<br />
+
 **Stats:**  
 ![Abhishek's Profile](https://github-readme-stats.vercel.app/api?username=abhishek622&count_private=true&theme=gotham&show_icons=true&icon_color=FFFFFF)
 ![languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek622&layout=compact&theme=gotham)
 
-<br />
-<hr>
-<br />
+
+
 **Connect with me:**
 
 <p align="left">
