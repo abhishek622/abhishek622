@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/RJn5bLTmMuvRD7fIBl/giphy.gif" width="50"/>
 
 <p align="left">
 <a href="mailto: abhishekprasad0602@gmail.com">
@@ -15,13 +15,28 @@
   </a>
 </p>
 
-I'm Abhishek Prasad
+I'm <strong>Abhishek Prasad</strong>
 
-- A CSE Undergraduate Student
-- 🌱 I’m currently learning - Reactjs
-- 👯 I’m a Web Development enthusiast
-- ⚡ Fun fact: I love anime
+- <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="30" /> A 2nd year undergraduate pursuing B.Tech (CSE)
+- <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="30" /> An aspiring Full-Stack Web Developer
+- <img src="https://media.giphy.com/media/kI9TpF9vknZ2TGk7VV/giphy.gif" width="30" /> Currently learning MERN stack....(React.js)
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="30" />  I'm looking to collaborate on ....
+- <img src="https://media.giphy.com/media/rBVg4NWlIjdGS07TjZ/giphy.gif" width="30"/> Code-Eat-Anime-Sleep : Repeat
 <br />
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/python.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/pycharm.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
+<code><img height="20" src="https://img.icons8.com/officexs/40/000000/java-eclipse.png"></code>
+
+**Stats:**  
 ![Abhishek's Profile](https://github-readme-stats.vercel.app/api?username=abhishek622&count_private=true&theme=gotham&show_icons=true&icon_color=FFFFFF)
 ![languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek622&langs_count=8&theme=gotham)
