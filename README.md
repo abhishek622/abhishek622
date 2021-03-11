@@ -2,7 +2,7 @@
 
 
 I'm <strong>Abhishek Prasad</strong>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" />
 
 - <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> A 2nd year undergraduate pursuing B.Tech (CSE)
 - <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="35" /> An aspiring Full-Stack Web Developer
