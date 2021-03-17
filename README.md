@@ -7,7 +7,7 @@ I'm <strong>Abhishek Prasad</strong>
 - <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> A 2nd year undergraduate pursuing B.Tech (CSE)
 - <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="35" /> An aspiring Full-Stack Web Developer
 - <img src="https://media.giphy.com/media/kI9TpF9vknZ2TGk7VV/giphy.gif" width="35" /> Currently learning MERN stack....(React.js)
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="35" />  I'm looking to collaborate on ....
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="35" />  I'm looking to collaborate on React.js project
 - <img src="https://media.giphy.com/media/rBVg4NWlIjdGS07TjZ/giphy.gif" width="35"/> Code-Eat-Anime-Sleep : Repeat
 
 <br/>
