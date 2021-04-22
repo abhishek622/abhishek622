@@ -1,18 +1,17 @@
 ### Hi there <img src="https://media.giphy.com/media/RJn5bLTmMuvRD7fIBl/giphy.gif" width="50"/>
 
 
-I'm <strong>Abhishek Prasad</strong>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" />
+<h3>I'm <strong>Abhishek Prasad</strong></h3>
 
-- <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> A 2nd year undergraduate pursuing B.Tech (CSE)
+- <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> Currently I'm pursuing BTech (CSE)
 - <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="35" /> An aspiring Full-Stack Web Developer
-- <img src="https://media.giphy.com/media/kI9TpF9vknZ2TGk7VV/giphy.gif" width="35" /> Currently learning MERN stack....(React.js)
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="35" />  I'm looking to collaborate on React.js project
+- <img src="https://media.giphy.com/media/kI9TpF9vknZ2TGk7VV/giphy.gif" width="35" /> I’m currently learning java and web development contents
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="35" />  I'm looking to collaborate on web-dev project
 - <img src="https://media.giphy.com/media/rBVg4NWlIjdGS07TjZ/giphy.gif" width="35"/> Code-Eat-Anime-Sleep : Repeat
 
 <br/>
 
-**Languages and Tools:**  
+<h3>Languages and Tools:</h3>
 
 <code><img height="25" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="25" src="https://img.icons8.com/color/48/000000/react-native.png"></code>
@@ -27,14 +26,14 @@ I'm <strong>Abhishek Prasad</strong>
 
 <br />
 
-**Stats:**  
+<h3>Stats:</h3> 
 
 ![Abhishek's Profile](https://github-readme-stats.vercel.app/api?username=abhishek622&count_private=true&theme=gotham&show_icons=true&icon_color=FFFFFF)
 ![languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek622&layout=compact&theme=gotham)
 
 <br />
 
-**Connect with me:**
+<h3>Connect with me:</h3>
 
 <p align="left">
 <a href="mailto: abhishekprasad0602@gmail.com">
