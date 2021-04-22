@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/RJn5bLTmMuvRD7fIBl/giphy.gif" width="50"/>
 
 
-<h3>I'm <strong>Abhishek Prasad</strong></h3>
+## I'm Abhishek Prasad
 
 - <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> Currently I'm pursuing BTech (CSE)
 - <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="35" /> An aspiring Full-Stack Web Developer
@@ -11,7 +11,7 @@
 
 <br/>
 
-<h3>Languages and Tools:</h3>
+## Languages and Tools:
 
 <code><img height="25" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="25" src="https://img.icons8.com/color/48/000000/react-native.png"></code>
@@ -26,14 +26,14 @@
 
 <br />
 
-<h3>Stats:</h3> 
+## Stats:
 
 ![Abhishek's Profile](https://github-readme-stats.vercel.app/api?username=abhishek622&count_private=true&theme=gotham&show_icons=true&icon_color=FFFFFF)
 ![languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek622&layout=compact&theme=gotham)
 
 <br />
 
-<h3>Connect with me:</h3>
+## Connect with me:
 
 <p align="left">
 <a href="mailto: abhishekprasad0602@gmail.com">
