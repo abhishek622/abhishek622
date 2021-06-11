@@ -1,28 +1,25 @@
-### Hi there <img src="https://media.giphy.com/media/RJn5bLTmMuvRD7fIBl/giphy.gif" width="50"/>
+### Hi there, I'm Abhishek <img src="https://media.giphy.com/media/RJn5bLTmMuvRD7fIBl/giphy.gif" width="50"/>
+<hr />
 
-
-## I'm Abhishek Prasad
-
-- <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> Currently I'm pursuing BTech (CSE)
-- <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="35" /> An aspiring Full-Stack Web Developer
-- <img src="https://media.giphy.com/media/kI9TpF9vknZ2TGk7VV/giphy.gif" width="35" /> I’m currently learning java and web development contents
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="35" />  I'm looking to collaborate on web-dev project
-- <img src="https://media.giphy.com/media/rBVg4NWlIjdGS07TjZ/giphy.gif" width="35"/> Code-Eat-Anime-Sleep : Repeat
+- Currently I'm pursuing BTech (CSE) <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> 
+- I’m currently learning Everything 😅
+- I'm passionate about the intersection between code and design 👨🏻‍💻
+- Till now I have no prior experience. Currently looking for an internship opportunity 🧐
 
 <br/>
 
-## Languages and Tools:
+## I code in:
 
+<code><img height="25" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
+<code><img height="25" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img height="25" src="https://img.icons8.com/color/48/000000/sass.png"/></code>
 <code><img height="25" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="25" src="https://img.icons8.com/color/48/000000/react-native.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/48/000000/python.png"></code>
 <code><img height="25" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
-<code><img height="25" src="https://img.icons8.com/color/48/000000/npm.png"></code>
-<code><img height="25" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></code>
-<code><img height="25" src="https://img.icons8.com/color/48/000000/git.png"/></code>
-<code><img height="25" src="https://img.icons8.com/color/48/000000/pycharm.png"></code>
-<code><img height="25" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code>
-<code><img height="25" src="https://img.icons8.com/officexs/40/000000/java-eclipse.png"></code>
+<code><img height="25" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/></code>
+<code><img height="25" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
+
 
 <br />
 
