@@ -39,9 +39,6 @@
   <a href="https://www.linkedin.com/in/abhishek-prasad-00721918b/">
   <img width="35" height="35" src="https://img.icons8.com/fluent/96/000000/linkedin.png">
   </a>
-  <a href="https://www.instagram.com/_abhishek_.p/">
-  <img width="35" height="35" src="https://img.icons8.com/fluent/96/000000/instagram-new.png">
-  </a>
   <a href="https://t.me/abhishek622">
   <img width="35" height="35" src="https://img.icons8.com/color/96/000000/telegram-app--v5.png">
   </a>
