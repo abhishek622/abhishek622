@@ -25,7 +25,7 @@
 
 ## Stats:
 
-![Abhishek's Profile](https://github-readme-stats.vercel.app/api?username=abhishek622&count_private=true&theme=gotham&show_icons=true&icon_color=FFFFFF)
+<!-- ![Abhishek's Profile](https://github-readme-stats.vercel.app/api?username=abhishek622&count_private=true&theme=gotham&show_icons=true&icon_color=FFFFFF) -->
 ![languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek622&layout=compact&theme=gotham)
 
 <br />
