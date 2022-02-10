@@ -2,9 +2,9 @@
 <hr />
 
 - I'm pursuing BTech (CSE) <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> 
-- Currently learning react-native ⚛️
+- Currently learning machine learning 🤖
 - I'm passionate about the intersection between code and design 👨🏻‍💻
-- Till now I have no prior experience. Currently looking for an internship opportunity 🧐
+
 
 <br/>
 
