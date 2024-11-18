@@ -1,9 +1,15 @@
 ### Hi there, I'm Abhishek <img src="https://media.giphy.com/media/RJn5bLTmMuvRD7fIBl/giphy.gif" width="50"/>
 <hr />
 
-- I'm pursuing BTech (CSE) <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> 
-- Currently learning machine learning 🤖
-- I'm passionate about the intersection between code and design 👨🏻‍💻
+Experienced Backend Developer specializing in Node.js, MySQL, and cloud-native technologies. <img src="https://media.giphy.com/media/z3iN1cvskVRqhf6PLf/giphy.gif" width="35" /> 
+
+Proficient in building scalable and reliable backend systems. Skilled in: `Node.js`, `MySQL`, `GCP`, `Docker`, `Go`
+
+I strive to stay updated with the latest industry trends and best practices.
+
+Feel free to reach out if you have any questions or want to collaborate on projects!
+
+
 
 
 <br/>
@@ -19,7 +25,7 @@
 <code><img height="25" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code>
 <code><img height="25" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/></code>
 <code><img height="25" src="https://img.icons8.com/color/48/000000/mongodb.png"/></code>
-
+<code><img height="25" src="https://img.icons8.com/color/48/golang.png" alt="golang" /></code>
 
 <br />
 
