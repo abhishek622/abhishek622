@@ -42,10 +42,4 @@ Feel free to reach out if you have any questions or want to collaborate on proje
 <a href="mailto: abhishekprasad0602@gmail.com">
   <img width="35" height="35" src="https://img.icons8.com/fluent/96/000000/gmail--v2.png">
   </a>
-  <a href="https://www.linkedin.com/in/abhishekprasad00">
-  <img width="35" height="35" src="https://img.icons8.com/fluent/96/000000/linkedin.png">
-  </a>
-  <a href="https://t.me/abhishek622">
-  <img width="35" height="35" src="https://img.icons8.com/color/96/000000/telegram-app--v5.png">
-  </a>
 </p>
